@@ -50,7 +50,14 @@ The final dashboard includes the following metrics to provide a comprehensive vi
 ✅ Performance of agents
 
 🎨 Dashboard Visualizations 🖼️
-![Dashboard showing key metrics](images/dashboard1.png)
-![Dashboard showing key metrics](images/dashboard2.png)
-![Dashboard showing key metrics](images/dashboard3.png)
-![Dashboard showing key metrics](images/dashboard4.png)
+This section showcases the key visualizations from the project dashboard.
+
+| Dashboard Image 1 | Dashboard Image 2 |
+|---|---|
+| ![Dashboard showing key metrics](images/dashboard1.png) | ![Dashboard showing key metrics](images/dashboard2.png) |
+| *Ticket Volume and Agent Performance* | *Detailed Agent Breakdown* |
+
+| Dashboard Image 3 | Dashboard Image 4 |
+|---|---|
+| ![Dashboard showing key metrics](images/dashboard3.png) | ![Dashboard showing key metrics](images/dashboard4.png) |
+| *Satisfaction and Resolution Metrics* | *Ticket Categories and Data Integrity* |
