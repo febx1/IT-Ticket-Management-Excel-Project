@@ -49,8 +49,7 @@ The final dashboard includes the following metrics to provide a comprehensive vi
 
 ✅ Performance of agents
 
-🎨 Dashboard Visualizations 🖼️
-This section showcases the key visualizations from the project dashboard.
+🎨 ##Dashboard Visualizations 🖼️
 
 | Dashboard Image 1 | Dashboard Image 2 |
 |---|---|
